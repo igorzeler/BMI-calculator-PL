@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\BMIConsole\BMIConsole\bin\Debug\BMIConsole.exe.config
+C:\Users\Daniel\source\repos\BMIConsole\BMIConsole\bin\Debug\BMIConsole.exe
+C:\Users\Daniel\source\repos\BMIConsole\BMIConsole\bin\Debug\BMIConsole.pdb
+C:\Users\Daniel\source\repos\BMIConsole\BMIConsole\obj\Debug\BMIConsole.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\BMIConsole\BMIConsole\obj\Debug\BMIConsole.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\BMIConsole\BMIConsole\obj\Debug\BMIConsole.exe
+C:\Users\Daniel\source\repos\BMIConsole\BMIConsole\obj\Debug\BMIConsole.pdb
+C:\Users\igorz\Downloads\BMIConsole\BMIConsole\bin\Debug\BMIConsole.exe.config
+C:\Users\igorz\Downloads\BMIConsole\BMIConsole\bin\Debug\BMIConsole.exe
+C:\Users\igorz\Downloads\BMIConsole\BMIConsole\bin\Debug\BMIConsole.pdb
+C:\Users\igorz\Downloads\BMIConsole\BMIConsole\obj\Debug\BMIConsole.csprojAssemblyReference.cache
+C:\Users\igorz\Downloads\BMIConsole\BMIConsole\obj\Debug\BMIConsole.csproj.CoreCompileInputs.cache
+C:\Users\igorz\Downloads\BMIConsole\BMIConsole\obj\Debug\BMIConsole.exe
+C:\Users\igorz\Downloads\BMIConsole\BMIConsole\obj\Debug\BMIConsole.pdb
